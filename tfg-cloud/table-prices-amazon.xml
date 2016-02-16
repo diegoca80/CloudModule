@@ -1,0 +1,15 @@
+<Instance>
+    <types>
+    
+    <Type><name>t2.micro</name><vCPU>1</vCPU><ecu>1</ecu><memory>1</memory><storage>0</storage><pricePerHour>0.0130</pricePerHour></Type>
+    <Type><name>t2.small</name><vCPU>1</vCPU><ecu>1</ecu><memory>2</memory><storage>0</storage><pricePerHour>0.0260</pricePerHour></Type>
+    <Type><name>t2.medium</name><vCPU>2</vCPU><ecu>1</ecu><memory>4</memory><storage>0</storage><pricePerHour>0.0520</pricePerHour></Type>
+    <Type><name>t2.large</name><vCPU>2</vCPU><ecu>1</ecu><memory>8</memory><storage>0</storage><pricePerHour>0.1040</pricePerHour></Type>
+    <Type><name>m4.large</name><vCPU>2</vCPU><ecu>6.5</ecu><memory>8</memory><storage>0</storage><pricePerHour>0.1260</pricePerHour></Type>
+    <Type><name>m4.xlarge</name><vCPU>4</vCPU><ecu>13</ecu><memory>16</memory><storage>0</storage><pricePerHour>0.2520</pricePerHour></Type>
+    <Type><name>m4.2xlarge</name><vCPU>8</vCPU><ecu>26</ecu><memory>32</memory><storage>0</storage><pricePerHour>0.5040</pricePerHour></Type>
+    <Type><name>m4.4xlarge</name><vCPU>16</vCPU><ecu>53.5</ecu><memory>64</memory><storage>0</storage><pricePerHour>1.0080</pricePerHour></Type>
+    <Type><name>m4.10xlarge</name><vCPU>40</vCPU><ecu>124.5</ecu><memory>160</memory><storage>0</storage><pricePerHour>2.5200</pricePerHour></Type>
+
+</types>
+  </Instance>

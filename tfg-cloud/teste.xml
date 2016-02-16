@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo_calc_export scriptVersion="2.2.0_qdxml" scriptUpdate="2011-03-02" scriptURL="http://www.digitalimprint.com/misc/oooexport/" scriptAuthor="vjl">
+  <ooo_sheet num="1">
+    <ooo_row><column_1>Tipo de instância</column_1><column_2>vCPU</column_2><column_3>ECU</column_3><column_4>Memória (GiB)</column_4><column_5>Armazenamento da instância (GB)</column_5><column_6>Uso do Linux/UNIX(por hora)</column_6></ooo_row>
+    <ooo_row><column_1>t2.micro</column_1><column_2>1</column_2><column_3>Variablel</column_3><column_4>1</column_4><column_5>EBS only</column_5><column_6>$0.0130</column_6></ooo_row>
+    <ooo_row><column_1>t2.small</column_1><column_2>1</column_2><column_3>Variablel</column_3><column_4>2</column_4><column_5>EBS only</column_5><column_6>$0.0260</column_6></ooo_row>
+    <ooo_row><column_1>t2.medium</column_1><column_2>2</column_2><column_3>Variablel</column_3><column_4>4</column_4><column_5>EBS only</column_5><column_6>$0.0520</column_6></ooo_row>
+    <ooo_row><column_1>m3.medium</column_1><column_2>1</column_2><column_3>3</column_3><column_4>3.75</column_4><column_5>1 x 4 SSD</column_5><column_6>$0.0700</column_6></ooo_row>
+    <ooo_row><column_1>m3.large</column_1><column_2>2</column_2><column_3>6.5</column_3><column_4>7.5</column_4><column_5>1 x 32 SSD</column_5><column_6>$0.1400</column_6></ooo_row>
+    <ooo_row><column_1>m3.xlarge</column_1><column_2>4</column_2><column_3>13</column_3><column_4>15</column_4><column_5>2 x 40 SSD</column_5><column_6>$0.2800</column_6></ooo_row>
+    <ooo_row><column_1>m3.2xlarge</column_1><column_2>8</column_2><column_3>26</column_3><column_4>30</column_4><column_5>2 x 80 SSD</column_5><column_6>$0.5600</column_6></ooo_row>
+    <ooo_row><column_1>c4.large</column_1><column_2>2</column_2><column_3>8</column_3><column_4>3.75</column_4><column_5>EBS only</column_5><column_6>$0.1160</column_6></ooo_row>
+    <ooo_row><column_1>c4.xlarge</column_1><column_2>4</column_2><column_3>16</column_3><column_4>7.5</column_4><column_5>EBS only</column_5><column_6>$0.2320</column_6></ooo_row>
+    <ooo_row><column_1>c4.2xlarge</column_1><column_2>8</column_2><column_3>31</column_3><column_4>15</column_4><column_5>EBS only</column_5><column_6>$0.4640</column_6></ooo_row>
+    <ooo_row><column_1>c4.4xlarge</column_1><column_2>16</column_2><column_3>62</column_3><column_4>30</column_4><column_5>EBS only</column_5><column_6>$0.9280</column_6></ooo_row>
+    <ooo_row><column_1>c4.8xlarge</column_1><column_2>36</column_2><column_3>132</column_3><column_4>60</column_4><column_5>EBS only</column_5><column_6>$1.8560</column_6></ooo_row>
+    <ooo_row><column_1>c3.large</column_1><column_2>2</column_2><column_3>7</column_3><column_4>3.75</column_4><column_5>2 x 16 SSD</column_5><column_6>$0.1050</column_6></ooo_row>
+    <ooo_row><column_1>c3.xlarge</column_1><column_2>4</column_2><column_3>14</column_3><column_4>7.5</column_4><column_5>2 x 40 SSD</column_5><column_6>$0.2100</column_6></ooo_row>
+    <ooo_row><column_1>c3.2xlarge</column_1><column_2>8</column_2><column_3>28</column_3><column_4>15</column_4><column_5>2 x 80 SSD</column_5><column_6>$0.4200</column_6></ooo_row>
+    <ooo_row><column_1>c3.4xlarge</column_1><column_2>16</column_2><column_3>55</column_3><column_4>30</column_4><column_5>2 x 160 SSD</column_5><column_6>$0.8400</column_6></ooo_row>
+    <ooo_row><column_1>c3.8xlarge</column_1><column_2>32</column_2><column_3>108</column_3><column_4>60</column_4><column_5>2 x 320 SSD</column_5><column_6>$1.6800</column_6></ooo_row>
+  </ooo_sheet>
+</ooo_calc_export>
